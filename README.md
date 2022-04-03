@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+SPlRlT+YT's+Profile)](https://git.io/typing-svg)
 
   <p align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/ZknPTZG.jpeg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/E2m87kF.jpeg""width="170" height="170"/>
   <p align="center">
 
 <a href="#"><img title="jocker" src="https://img.shields.io/badge/-💝SPIRIT SER💝-blue?&style=for-the-badge"></a>
@@ -14,7 +14,7 @@
 
 </div>
 
-![My card name](https://cardivo.vercel.app/api?name=SPlRlT-YT&description=Hi,%20Welcome%20To%20💖spirit💖%20Profile%20❤&image=https://i.imgur.com/ZknPTZG.jpeg&backgroundColor=%23ecf0f1&instagram=SPIRIT-SER&github=SPlRlT-YT&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=SPlRlT-YT&description=Hi,%20Welcome%20To%20💖spirit💖%20Profile%20❤&image=https://i.imgur.com/E2m87kF.jpeg&backgroundColor=%23ecf0f1&instagram=SPIRIT-SER&github=SPlRlT-YT&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <div align="center">
   <p align="center">
